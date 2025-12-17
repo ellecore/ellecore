@@ -13,4 +13,4 @@ My main focus is cybersecurity fundamentals, security tooling, and exploring Dig
 - Fashion and tech are a combo I actually enjoy
 - I travel whenever I can
 - I have a cat
-- Hobbies: Reading, traveling, writing things
+- Hobbies: Reading, traveling, writing things at substack
