@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**elleshift/elleshift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Helena, a cybersecurity student who's genuinely curiois about how systems work, how they fail and how to protect them.
 
-Here are some ideas to get you started:
+I enjoy understanding how systems break, how to defend them, and how everything connects under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea sounds useful (or chaotic in a good way), chances are I'll try to build it.
+
+My main focus is cybersecurity fundamentals, security tooling, and exploring Digital Forensics. I'm especially interested in investigations, incident analysis, and how technical details turn into evidence.
+
+## Fun facts
+- I love learning languages
+- Fashion and tech are a combo I actually enjoy
+- I travel whenever I can
+- I have a cat
+- Hobbies: Reading, traveling, writing things
