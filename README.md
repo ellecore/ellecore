@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Helena, a cybersecurity student who's genuinely curiois about how systems work, how they fail and how to protect them.
+I'm Helena, a cybersecurity student who's genuinely curious about how systems work, how they fail and how to protect them.
 
 I enjoy understanding how systems break, how to defend them, and how everything connects under the hood.
 
